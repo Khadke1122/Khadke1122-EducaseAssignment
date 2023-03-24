@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khadke1122-EducaseAssignment/static/css/main.b2f61c46.css",
+    "main.js": "/Khadke1122-EducaseAssignment/static/js/main.371a06e9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Khadke1122-EducaseAssignment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Khadke1122-EducaseAssignment/index.html",
+    "main.b2f61c46.css.map": "/Khadke1122-EducaseAssignment/static/css/main.b2f61c46.css.map",
+    "main.371a06e9.js.map": "/Khadke1122-EducaseAssignment/static/js/main.371a06e9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Khadke1122-EducaseAssignment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f61c46.css",
+    "static/js/main.371a06e9.js"
+  ]
+}
